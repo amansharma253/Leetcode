@@ -19,4 +19,8 @@ My leetcode practice
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/amansharma253/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
