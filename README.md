@@ -7,6 +7,7 @@ My leetcode practice
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -36,4 +37,12 @@ My leetcode practice
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/amansharma253/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+## Math
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
