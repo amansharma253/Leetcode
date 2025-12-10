@@ -8,6 +8,7 @@ My leetcode practice
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansharma253/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amansharma253/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/amansharma253/Leetcode/tree/master/3583-count-special-triplets) |
 ## Greedy
@@ -46,6 +47,7 @@ My leetcode practice
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amansharma253/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/amansharma253/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansharma253/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,4 +77,12 @@ My leetcode practice
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/amansharma253/Leetcode/tree/master/3583-count-special-triplets) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansharma253/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansharma253/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
