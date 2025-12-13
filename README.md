@@ -13,6 +13,7 @@ My leetcode practice
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansharma253/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amansharma253/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/amansharma253/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/amansharma253/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -23,6 +24,7 @@ My leetcode practice
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3433-count-mentions-per-user](https://github.com/amansharma253/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amansharma253/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/amansharma253/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Counting Sort
 |  |
 | ------- |
@@ -39,6 +41,7 @@ My leetcode practice
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/amansharma253/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/amansharma253/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +89,7 @@ My leetcode practice
 | ------- |
 | [3531-count-covered-buildings](https://github.com/amansharma253/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/amansharma253/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/amansharma253/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Brainteaser
 |  |
 | ------- |
