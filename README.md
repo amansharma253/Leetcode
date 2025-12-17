@@ -62,6 +62,7 @@ My leetcode practice
 | [1925-count-square-sum-triples](https://github.com/amansharma253/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/amansharma253/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/amansharma253/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/amansharma253/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansharma253/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
