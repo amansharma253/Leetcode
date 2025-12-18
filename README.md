@@ -6,6 +6,7 @@ My leetcode practice
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/amansharma253/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -130,5 +131,6 @@ My leetcode practice
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/amansharma253/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
