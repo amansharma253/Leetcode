@@ -6,6 +6,7 @@ My leetcode practice
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -25,6 +26,7 @@ My leetcode practice
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3433-count-mentions-per-user](https://github.com/amansharma253/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amansharma253/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -125,4 +127,8 @@ My leetcode practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amansharma253/Leetcode/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
