@@ -59,6 +59,7 @@ My leetcode practice
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amansharma253/Leetcode/tree/master/0069-sqrtx) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amansharma253/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/amansharma253/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -120,4 +121,8 @@ My leetcode practice
 |  |
 | ------- |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amansharma253/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amansharma253/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
