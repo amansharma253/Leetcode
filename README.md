@@ -17,6 +17,7 @@ My leetcode practice
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amansharma253/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/amansharma253/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/amansharma253/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amansharma253/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My leetcode practice
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amansharma253/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amansharma253/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +89,7 @@ My leetcode practice
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amansharma253/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amansharma253/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue
 |  |
 | ------- |
