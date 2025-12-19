@@ -29,6 +29,7 @@ My leetcode practice
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3433-count-mentions-per-user](https://github.com/amansharma253/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amansharma253/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/amansharma253/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -123,6 +124,7 @@ My leetcode practice
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amansharma253/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Search
 |  |
@@ -133,4 +135,16 @@ My leetcode practice
 | ------- |
 | [0027-remove-element](https://github.com/amansharma253/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
