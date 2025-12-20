@@ -1,3 +1,3 @@
-var createCounter = function(n) {
+let createCounter = function(n) {
   return () => { return n++; };
 };
