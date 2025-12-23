@@ -13,6 +13,7 @@ My leetcode practice
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amansharma253/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amansharma253/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2054-two-best-non-overlapping-events](https://github.com/amansharma253/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/amansharma253/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -35,6 +36,7 @@ My leetcode practice
 | [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansharma253/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2054-two-best-non-overlapping-events](https://github.com/amansharma253/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3433-count-mentions-per-user](https://github.com/amansharma253/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amansharma253/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -91,6 +93,7 @@ My leetcode practice
 |  |
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amansharma253/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/amansharma253/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/amansharma253/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amansharma253/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -140,6 +143,7 @@ My leetcode practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amansharma253/Leetcode/tree/master/0069-sqrtx) |
+| [2054-two-best-non-overlapping-events](https://github.com/amansharma253/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +169,7 @@ My leetcode practice
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansharma253/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/amansharma253/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Quickselect
 |  |
 | ------- |
