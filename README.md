@@ -15,6 +15,7 @@ My leetcode practice
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2054-two-best-non-overlapping-events](https://github.com/amansharma253/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3074-apple-redistribution-into-boxes](https://github.com/amansharma253/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amansharma253/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/amansharma253/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amansharma253/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -30,6 +31,7 @@ My leetcode practice
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amansharma253/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3074-apple-redistribution-into-boxes](https://github.com/amansharma253/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +40,7 @@ My leetcode practice
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2054-two-best-non-overlapping-events](https://github.com/amansharma253/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [3074-apple-redistribution-into-boxes](https://github.com/amansharma253/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/amansharma253/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amansharma253/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/amansharma253/Leetcode/tree/master/3606-coupon-code-validator) |
