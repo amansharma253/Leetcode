@@ -9,6 +9,7 @@ My leetcode practice
 | [0027-remove-element](https://github.com/amansharma253/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansharma253/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0840-magic-squares-in-grid](https://github.com/amansharma253/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amansharma253/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amansharma253/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amansharma253/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -87,6 +88,7 @@ My leetcode practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amansharma253/Leetcode/tree/master/0069-sqrtx) |
+| [0840-magic-squares-in-grid](https://github.com/amansharma253/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amansharma253/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/amansharma253/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -133,6 +135,7 @@ My leetcode practice
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/amansharma253/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/amansharma253/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [2402-meeting-rooms-iii](https://github.com/amansharma253/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/amansharma253/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/amansharma253/Leetcode/tree/master/3583-count-special-triplets) |
@@ -194,6 +197,7 @@ My leetcode practice
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/amansharma253/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amansharma253/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
