@@ -7,6 +7,7 @@ My leetcode practice
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/amansharma253/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/amansharma253/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/amansharma253/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amansharma253/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0840-magic-squares-in-grid](https://github.com/amansharma253/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -87,6 +88,7 @@ My leetcode practice
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/amansharma253/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amansharma253/Leetcode/tree/master/0069-sqrtx) |
 | [0840-magic-squares-in-grid](https://github.com/amansharma253/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amansharma253/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
