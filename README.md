@@ -16,6 +16,7 @@ My leetcode practice
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amansharma253/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amansharma253/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amansharma253/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/amansharma253/Leetcode/tree/master/1390-four-divisors) |
 | [1833-maximum-ice-cream-bars](https://github.com/amansharma253/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2054-two-best-non-overlapping-events](https://github.com/amansharma253/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -92,6 +93,7 @@ My leetcode practice
 | [0066-plus-one](https://github.com/amansharma253/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amansharma253/Leetcode/tree/master/0069-sqrtx) |
 | [0840-magic-squares-in-grid](https://github.com/amansharma253/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/amansharma253/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amansharma253/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/amansharma253/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amansharma253/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
