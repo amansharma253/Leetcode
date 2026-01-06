@@ -160,10 +160,12 @@ My leetcode practice
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amansharma253/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amansharma253/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amansharma253/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amansharma253/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Search
@@ -180,6 +182,7 @@ My leetcode practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amansharma253/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/amansharma253/Leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
@@ -217,4 +220,8 @@ My leetcode practice
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/amansharma253/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amansharma253/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
