@@ -64,6 +64,7 @@ My leetcode practice
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/amansharma253/Leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/amansharma253/Leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/amansharma253/Leetcode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/amansharma253/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
